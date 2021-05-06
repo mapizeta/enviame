@@ -1,0 +1,7 @@
+data/
+Ejercicio-1-2/db.sqlite3
+Ejercicio-1-2/empresa/__pycache__
+Ejercicio-1-2/empresa/management/__pycache__
+Ejercicio-1-2/empresa/management/commands/__pycache__
+Ejercicio-1-2/empresa/migrations/__pycache__
+Ejercicio-1-2/enviame/__pycache__

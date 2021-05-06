@@ -1,0 +1,9 @@
+[
+    {"model": "empresa.empresa", "pk": 1, "fields": {"empresa_name": "CSI Logistic Forwarder", "created": "2021-05-06T20:28:47.551Z", "updated": "2021-05-06T20:28:47.551Z"}},
+    {"model": "empresa.empresa", "pk": 2, "fields": {"empresa_name": "Innovaseals", "created": "2021-05-06T20:28:47.551Z", "updated": "2021-05-06T20:28:47.551Z"}},
+    {"model": "empresa.empresa", "pk": 3, "fields": {"empresa_name": "HRf managemenent", "created": "2021-05-06T20:28:47.551Z", "updated": "2021-05-06T20:28:47.551Z"}},
+    {"model": "empresa.empresa", "pk": 4, "fields": {"empresa_name": "Tecnocam", "created": "2021-05-06T20:28:47.551Z", "updated": "2021-05-06T20:28:47.551Z"}},
+    {"model": "empresa.empresa", "pk": 5, "fields": {"empresa_name": "Social Ventis SpA", "created": "2021-05-06T20:28:47.551Z", "updated": "2021-05-06T20:28:47.551Z"}},
+    {"model": "empresa.empresa", "pk": 6, "fields": {"empresa_name": "Provider Latinamerica Spa", "created": "2021-05-06T20:28:47.551Z", "updated": "2021-05-06T20:28:47.551Z"}},
+    {"model": "empresa.empresa", "pk": 7, "fields": {"empresa_name": "Provectis", "created": "2021-05-06T20:28:47.551Z", "updated": "2021-05-06T20:28:47.551Z"}}
+]
